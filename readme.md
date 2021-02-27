@@ -195,6 +195,10 @@ docker-compose exec app php artisan key:generate
 
 docker-compose exec app php artisan migrate --seed
 
+## Colecciones Postman
+"Coleccion Postman.json" El archivo se encuenta en la raiz del proyecto.
+<a href="https://github.com/victorcel/prueba-tecnica-merkeo-backend/blob/main/Coleccion%20Postman.json">Ver Colecciones de Postman</a>
+
 ## Todos los archivos de documentación se encuentran en la carpeta Doc.
 ## Contributing
 
